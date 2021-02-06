@@ -7,7 +7,7 @@ import (
 	"log"
 
 	framework "github.com/tbe/resource-framework/resource"
-	"github.com/vmware/concourse-vrealize-automation-resource/pkg/resource"
+	"github.com/vmware/xcenter-vrealize-automation-resource/pkg/resource"
 )
 
 func main() {
