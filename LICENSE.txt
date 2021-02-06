@@ -1,4 +1,4 @@
-Concourse vRealize Automation Resource
+Xcenter vRealize Automation Resource
 Copyright 2020 VMware, Inc.
 
 The Apache 2.0 license (the "License") set forth below applies to all parts of the Concourse vRealize Automation Resource project. You may not use this file except in compliance with the License.
