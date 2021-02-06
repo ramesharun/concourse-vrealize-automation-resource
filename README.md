@@ -1,4 +1,4 @@
-# Concourse vRealize Automation Resource
+# xcenter vRealize Automation Resource
 
 This project is about a new Resource Type in Concourse CI for VMware's product named vRealize Automation (https://www.vmware.com/in/products/vrealize-automation.html)
 
