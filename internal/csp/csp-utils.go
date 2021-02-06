@@ -7,7 +7,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	httpUtils "github.com/vmware/concourse-vrealize-automation-resource/pkg/utils"
+	httpUtils "github.com/vmware/xcenter-vrealize-automation-resource/pkg/utils"
 )
 
 const (
