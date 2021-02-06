@@ -10,8 +10,8 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/vmware/concourse-vrealize-automation-resource/internal/csp"
-	httpUtils "github.com/vmware/concourse-vrealize-automation-resource/pkg/utils"
+	"github.com/vmware/xcenter-vrealize-automation-resource/internal/csp"
+	httpUtils "github.com/vmware/xcenter-vrealize-automation-resource/pkg/utils"
 )
 
 const (
