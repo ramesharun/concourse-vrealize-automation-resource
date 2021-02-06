@@ -9,8 +9,8 @@ import (
 	"log"
 	"time"
 
-	"github.com/vmware/concourse-vrealize-automation-resource/internal/csp"
-	"github.com/vmware/concourse-vrealize-automation-resource/internal/vra"
+	"github.com/vmware/xcenter-vrealize-automation-resource/internal/csp"
+	"github.com/vmware/xcenter-vrealize-automation-resource/internal/vra"
 )
 
 const (
