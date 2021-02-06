@@ -13,8 +13,8 @@ if [ $# -eq 0 ]; then
 fi
 
 # Repo details
-LABEL="concourse-vra-resource"
-REPO_PATH="projects.registry.vmware.com/concourse-vra-resource"
+LABEL="xcenter-vra-resource"
+REPO_PATH="projects.registry.vmware.com/xcenter-vra-resource"
 TAG="$LABEL:$VERSION"
 
 # Login to repo
