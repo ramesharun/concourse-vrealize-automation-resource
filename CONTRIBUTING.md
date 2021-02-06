@@ -1,10 +1,10 @@
 # Contributing to Concourse vRealize Automation Resource
 
-The Concourse vRealize Automation Resource project team welcomes contributions from the community. If you wish to contribute code and you have not signed our contributor license agreement (CLA), our bot will update the issue when you open a Pull Request. For any questions about the CLA process, please refer to our [FAQ](https://cla.vmware.com/faq).
+The xCenter vRealize Automation Resource project team welcomes contributions from the community. If you wish to contribute code and you have not signed our contributor license agreement (CLA), our bot will update the issue when you open a Pull Request. For any questions about the CLA process, please refer to our [FAQ](https://cla.vmware.com/faq).
 
 If you plan on contributing code to add/enhance features and fix bugs, please create a pull request.
 
- - [Fork](https://help.github.com/articles/fork-a-repo/) the [vRealize Automation Resource](https://github.com/vmware/concourse-vrealize-automation-resource) into your Github account.
+ - [Fork](https://help.github.com/articles/fork-a-repo/) the [vRealize Automation Resource](https://github.com/ramesharun/xcenter-vrealize-automation-resource) into your Github account.
  - Clone the Forked repo and make required changes
  - Push your code to Fork and [submit a pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
 
